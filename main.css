@@ -19,7 +19,7 @@ body {
 	background: url("frame2.jpg") transparent;
 	background-repeat: no-repeat;
 	background-size:80%;
-	background-position: 200px 680px;
+	background-position: 150px 680px;
 	color: #F96167;
 	background-color: #FCE77D;
 -webkit-animation: bugfix infinite 1s; 
